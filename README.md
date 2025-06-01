@@ -1,12 +1,15 @@
-# 🛡️ Phishing Email Analysis – Task 2
+# Phishing Email Analysis – Task 2
 
-## 📌 Objective
+## Objective
 Analyze a suspicious email and identify phishing indicators to better understand common email-based cyber threats.
 
-## 🔍 Sample Email Analyzed
+## Tool Used
+mxtoolbox.com - Greatly helped in analysing the email header.
+
+## Sample Email Analyzed
 The email pretended to be from Apple Security and used fear tactics to convince the user to click a malicious link.
 
-### 🔑 Key Details:
+### Key Details:
 - **Sender:** security@apple-id-update.com
 - **Subject:** URGENT: Your Apple ID Has Been Suspended
 - **Malicious Link:** https://apple.com.verify-user-login.com/restore
@@ -16,7 +19,7 @@ The email pretended to be from Apple Security and used fear tactics to convince 
 
 ---
 
-## 🚨 Phishing Indicators Found
+## Phishing Indicators Found
 | Indicator | Description |
 |----------|-------------|
 | 🚩 Spoofed Email | The domain is not official Apple (`apple-id-update.com`) |
