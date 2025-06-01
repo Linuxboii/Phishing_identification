@@ -1,0 +1,19 @@
+From: security@apple-id-update.com  
+To: you@example.com  
+Subject: URGENT: Your Apple ID Has Been Suspended  
+Date: Tue, 28 May 2025 14:32:11 +0000  
+
+Dear Customer,
+
+We detected suspicious activity on your Apple ID account. For your safety, your account has been temporarily suspended.
+
+To restore access, please verify your identity immediately by clicking the secure link below:
+
+https://apple.com.verify-user-login.com/restore
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+Sincerely,  
+Apple Security Team
+
+*This is an automated message. Please do not reply.*
