@@ -1,6 +1,6 @@
-# 📄 Phishing Email Report
+# Phishing Email Report
 
-## 🎯 Email Overview
+## Email Overview
 
 **Subject:** URGENT: Your Apple ID Has Been Suspended  
 **From:** security@apple-id-update.com  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔍 Header Analysis
+## Header Analysis
 
 | Field | Status |
 |-------|--------|
@@ -26,7 +26,7 @@ Header analysis was performed using [MXToolbox Email Header Analyzer](https://mx
 
 ---
 
-## 🚨 Phishing Indicators
+## Phishing Indicators
 
 | Indicator | Description |
 |----------|-------------|
@@ -39,7 +39,7 @@ Header analysis was performed using [MXToolbox Email Header Analyzer](https://mx
 
 ---
 
-## 🧠 Summary
+## Summary
 
 This email is a textbook phishing attempt designed to steal Apple ID credentials by tricking the user into clicking a fake login link. The use of spoofed domains, urgency, and failed authentication headers makes it highly suspicious and dangerous.
 
