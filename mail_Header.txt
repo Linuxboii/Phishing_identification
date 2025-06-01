@@ -1,0 +1,16 @@
+Return-Path: <notice@apple-id-update.com>
+Received: from smtp7.apple-id-update.com (smtp7.apple-id-update.com. [185.99.100.45])
+        by mx.google.com with ESMTP id z23si9099133qkc.90.2025.05.28.07.32.10;
+        Tue, 28 May 2025 07:32:10 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning notice@apple-id-update.com does not designate 185.99.100.45 as permitted sender)
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning notice@apple-id-update.com does not designate 185.99.100.45 as permitted sender) smtp.mailfrom=notice@apple-id-update.com;
+       dkim=fail header.i=@apple-id-update.com;
+       dmarc=fail (p=REJECT sp=NONE dis=NONE) header.from=apple-id-update.com
+Message-ID: <APPLEID20250528143211@smtp7.apple-id-update.com>
+Date: Tue, 28 May 2025 14:32:11 +0000
+From: Apple Security Team <security@apple-id-update.com>
+To: you@example.com
+Subject: URGENT: Your Apple ID Has Been Suspended
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
